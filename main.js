@@ -21,11 +21,13 @@ function calHouse() {
     console.log(`cost of all houses: ${sum}`);
      
     function buyHouse() {
-        for (let i = 0; i <= array.length && b >= array[i]; i++ && b-array[i]) {
+        for (let i = 0; i <= array.length && b >= array[i]; b-array[i] && i++) {
             if (i >= 0) {
+		num = b - array[i]
                 let inc = i + 1;
-                console.log(inc);
-                // document.getElementById("result").innerHTML = (`You can purchase ${inc} houses`);
+                console.log(`You can purchase ${inc} houses`);
+		console.log(num);
+                document.getElementById("result").innerHTML = (`You can purchase ${inc} houses`);
             } 
         }
     }
