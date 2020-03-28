@@ -21,6 +21,4 @@ Sort the elelments in the array in an increasing order.
 
 Write a loop to check if the lowest is is equal to or greater than B the budget.
 Finally subtract the individual prices from the budget until it is not possible
-Boom you get the maximum number of houses can be purchased base on the budgeted amount.
-
-But currently my code is having some issues, I will fix buy help we be very much appreciated thank you
+Boom you get the maximum number of houses that can be purchased base on the budgeted amount.
