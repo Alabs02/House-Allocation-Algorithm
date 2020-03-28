@@ -1,11 +1,11 @@
 # House-Allocation-Algorithm
-Google KickStart Round A allocation problem
-Problem
+# Google KickStart Round A allocation problem
+# Problem
 
 There are N houses for sale. The i-th house costs Ai dollars to buy. You have a budget of B dollars to spend.
 What is the maximum number of houses you can buy?
 
-Solution
+# Solution
 Step 1
 There are N number of Houses
 Step2
