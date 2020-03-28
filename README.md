@@ -23,4 +23,4 @@ Write a loop to check if the lowest is is equal to or greater than B the budget.
 Finally subtract the individual prices from the budget until it is not possible
 Boom you get the maximum number of houses can be purchased base on the budgeted amount.
 
-Thank You
+But currently my code is having some issues, I will fix buy help we be very much appreciated thank you
